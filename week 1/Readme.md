@@ -31,3 +31,8 @@ The course page loads that course’s data, displays its lessons, and shows comp
 
 Clicking “Mark as Completed” updates progress to 100% and saves it locally.
 
+  THE PROGRAM CAN BE ACCESSED BY CLICKING ON THE FOLLOWING LINK:
+  https://ai-for-se-6nka.vercel.app/
+  
+
+
