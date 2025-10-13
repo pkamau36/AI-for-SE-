@@ -29,7 +29,7 @@ st.divider()
 @st.cache_resource
 def load_model():
     try:
-        return joblib.load("malaria_model.pkl")
+        return joblib.load("week_2/malaria_model.pkl")
     except:
         st.error("Model file not found. Please train the model first!")
         return None
