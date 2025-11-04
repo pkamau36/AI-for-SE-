@@ -75,17 +75,6 @@ This document serves as both a theoretical reference and a visual documentation 
 
 ---
 
-## 🧩 Dependencies
-
-Make sure you have the following libraries installed:
-
-```bash
-pip install tensorflow keras scikit-learn matplotlib seaborn numpy pandas spacy
-python -m spacy download en_core_web_sm
-```
-
----
-
 ## Results Summary
 
 
