@@ -1,7 +1,7 @@
 ## Machine Learning and NLP Projects
 
 ## Folder Overview
-This repository contains a collection of projects demonstrating the use of **classical machine learning**, **deep learning**, and **natural language processing (NLP)** frameworks. The work spans from traditional scikit-learn implementations to advanced TensorFlow-based CNNs and linguistic modeling with spaCy.
+This folder contains a collection of projects demonstrating the use of **classical machine learning**, **deep learning**, and **natural language processing (NLP)** frameworks. The work spans from traditional scikit-learn implementations to advanced TensorFlow-based CNNs and linguistic modeling with spaCy.
 
 ---
 
