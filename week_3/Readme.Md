@@ -28,11 +28,7 @@ The trained **TensorFlow CNN model file** generated from `Mnist.ipynb`.
 - **Usage:** Load this model for inference or fine-tuning without retraining.  
 - **Model Summary:** 421,642 trainable parameters (as seen in the model summary table in `Wk3Assignment.pdf`, p.6).  
 
-Example:
-```python
-from tensorflow.keras.models import load_model
-model = load_model('mnist_cnn_model.h5')
-```
+
 
 ---
 
